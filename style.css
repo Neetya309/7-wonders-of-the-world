@@ -1,0 +1,16 @@
+body{
+  text-align:center;
+  background:linear-gradient(#34eb86 100%, #34eb86 0%);
+}
+img{
+  height:400px;
+}
+p{
+  font-size:20px;
+    font-family:arial;
+  Font-weight:bolder;
+  color:Darkblue
+}
+hr{
+width:90%
+}
